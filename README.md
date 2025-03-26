@@ -1,4 +1,4 @@
-# smart-city
+# smart-city (CityZen)
 To do:
 
   1st submission (4/11/25):
