@@ -1,13 +1,14 @@
 # smart-city (CityZen)
 To do:
 
-  1st submission (4/11/25):
-  1. Use-case-v0.1
+  1st submission (4/4/25):
+  1. Use-case-v0.1 ✅
   2. Project-description-v0.1 (και mock-up screens)
   3. Domain-model-v0.1
+  4. Project-code-v0.1 (GUI) 
 
 Use case:
-  1. Συγκοινωνίες (Τιλέντα)
+  1. Συγκοινωνίες (Τιλέντα) 
   2. Στάθμευση (Τζωρτζίνα)
   3. Αναφορά Βλαβών (Γιώργος)
   4. Απορρίμματα (Κώστας)
