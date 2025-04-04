@@ -3,8 +3,8 @@ To do:
 
   1st submission (4/4/25):
   1. Use-case-v0.1 ✅
-  2. Project-description-v0.1 (και mock-up screens)
-  3. Domain-model-v0.1
+  2. Project-description-v0.1 (και mock-up screens) ✅
+  3. Domain-model-v0.1 ✅
   4. Project-code-v0.1 (GUI) 
 
 Use case:
