@@ -1,4 +1,4 @@
-public class Trafic {
+public class Traffic {
     private String flowType;
     private String road;
 
