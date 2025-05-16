@@ -1,8 +1,10 @@
 import java.util.*;
 
 public class DataBase {
-    public void locationSearch() {} () {}
-    public void sightSearch() {} () {}
+
+
+    public void locationSearch() {} 
+    public void sightSearch() {} 
     public void searchForSightInfo () {}
     public void searchTop5Sights () {}
     public void checkNewsAvailability () {}
