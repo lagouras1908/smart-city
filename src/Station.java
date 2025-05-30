@@ -1,8 +1,22 @@
 public class Station {
-    private int id;
     private String name;
-    private String location;
+    private String time;
 
-    public void checkSelection() {}
-    public void rejectFields() {}
+    public Station(String name, String time) {
+        this.name = name;
+        this.time = time;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getTime() {
+        return time;
+    }
+
+    @Override
+    public String toString() {
+        return name + " (" + time + ")";
+    }
 }
